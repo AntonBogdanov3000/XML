@@ -1,5 +1,14 @@
 <bug_report>
-  <name>Issue in shoping cart</name>
-  <priority>minor</priority>
-  <description>faced some issue during use shopping cart</description>
+  <id>1</id>
+  <title>issue in shopping cart</title>
+  <steps>
+    <first>add item in cart</first>
+    <second>click on Buy button</second>
+  </steps>
+  <expected>Move to order page</expected>
+  <actual>Buy button does not active</actual>
+  <reporter>Bogdanov</reporter>
+  <severity>high</severity>
+  <priority>high</priority>
+  <environment>Crome, Mac OS</environment>
 </bug_report>
